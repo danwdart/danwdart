@@ -1,4 +1,4 @@
-# Dan Dart
+# Dan Dart, a.k.a. The Void
 - nb; they/them
 - `git` wizard
 - open sourcerer
